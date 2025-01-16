@@ -1,0 +1,40 @@
+Aisha Najwa Mohammad Ismail
+friday 9am to 12pm
+Sir Hamzah Syed
+
+ -----------**--------------
+
+Hackathon Day 2 
+Technical Requirment Documentation
+
+----------###-----------
+
+Day 2: Planning the Technical Foundation* is well-written and aligns with the objectives of the day. Here's why it's appropriate:  
+
+### *Strengths:*
+1. *Frontend Requirements:*  
+   - Clearly mentions user-friendly design and essential pages (Home, Product Listing, Cart, Checkout).  
+   - Addresses both mobile and desktop responsiveness, which is key for a marketplace.  
+
+2. *Backend System:*  
+   - Using Sanity CMS is a good choice for managing products, customers, and orders.  
+
+3. *Third-Party Integrations:*  
+   - Recognizing the need for payment gateways and shipment tracking via APIs shows understanding of critical marketplace features.  
+
+4. *System Architecture Workflow:*  
+   - Step-by-step explanation of how data flows between the frontend, backend, and APIs is accurate and demonstrates technical clarity.
+
+  5. *API Requirements:*  
+   - Specific endpoints for products, orders, and shipment tracking are well-identified and necessary for building a scalable marketplace.  
+
+6. *Documentation:*  
+   - Highlighting the importance of technical documentation, including architecture diagrams and API specifications, is on point for Day 2.  
+
+### *Suggestions for Improvement:*
+- Add a brief note about *user experience (UX)* and testing to make the foundation stronger. For example:
+   - "Plan intuitive navigation and test early for smooth user experience."  
+- Include a line about *collaboration with the team* to ensure the plan is refined with feedback.
+
+
+  
